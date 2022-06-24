@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=300&section=header&text=WELCOME%20&fontSize=90&desc=CHANYE%20GitHub%20&fontAlign=30&descAlign=30&descAlignY=65&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=300&section=header&text=WELCOME%20&fontSize=90&desc=CHAN-YE%20GitHub%20&fontAlign=30&descAlign=30&descAlignY=65&animation=twinkling)
 <br>
 
 <h3 align="center"><b>🛠 The skills I learned 🛠</b></h3>
@@ -13,5 +13,5 @@
 *** 
  <br>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=CHANYE&show_icons=true&include_all_commits=true&theme=flag-india&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHANYE&layout=compact&theme=flag-india&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=CHAN-YE&show_icons=true&include_all_commits=true&theme=flag-india&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHAN-YE&layout=compact&theme=flag-india&hide_border=true" /></a> |
 | ------------- | ------------- |
