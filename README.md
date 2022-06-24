@@ -11,6 +11,12 @@
  </p>
 
 *** 
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qjdrptmzk)](https://solved.ac/profile/qjdrptmzk)
+<img src="http://mazandi.herokuapp.com/api?handle=qjdrptmzk&theme=cold"/>
+
+***
+
  <br>
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Imperator-augus&show_icons=true&include_all_commits=true&theme=flag-india&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imperator-augus&layout=compact&theme=flag-india&hide_border=true" /></a> |
