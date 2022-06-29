@@ -12,10 +12,7 @@
 
 *** 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qjdrptmzk)](https://solved.ac/profile/qjdrptmzk)
-<img src="http://mazandi.herokuapp.com/api?handle=qjdrptmzk&theme=cold"/>
 
-***
 
  <br>
 
