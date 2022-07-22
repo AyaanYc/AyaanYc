@@ -9,6 +9,9 @@
 <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
 <img alt="CSS3" src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white">
 <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=Laravel&logoColor=white">
+<img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white">
+<img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">
+<img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white">
  </p>
 
 *** 
